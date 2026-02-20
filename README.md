@@ -49,3 +49,7 @@ Provides quick insights for managers to allocate resources efficiently.
 Enables data-driven decisions through automation and visualization.
 
 This project demonstrates how data cleaning, Python automation, and interactive reporting can simplify inventory management and improve operational efficiency for businesses.
+
+
+_**Source**_
+https://www.kaggle.com/datasets/gajendrasharmagl/sales-data
